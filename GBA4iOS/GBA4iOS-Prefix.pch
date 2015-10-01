@@ -1,0 +1,25 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "RSTHelperFile.h"
+#endif
+
+// Remember to update config.h everytime you update the source
+#include "config.h"
+
+#define GBA4iOS_PURPLE_COLOR [UIColor colorWithRed:120.0/255.0 green:32.0/255.0 blue:157.0/255.0 alpha:1.0]
+//#define USE_BLUETOOTH
+
+

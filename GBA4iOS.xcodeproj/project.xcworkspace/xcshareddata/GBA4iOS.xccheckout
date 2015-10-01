@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E410257B-9414-43B0-9BF8-553DA298F4D1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GBA4iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F00DBADA-A3E2-47D7-9579-368F88F1EB58</key>
+		<string>https://github.com/rileytestut/GBA4iOS-2.0.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GBA4iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F00DBADA-A3E2-47D7-9579-368F88F1EB58</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rileytestut/GBA4iOS-2.0.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F00DBADA-A3E2-47D7-9579-368F88F1EB58</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F00DBADA-A3E2-47D7-9579-368F88F1EB58</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GBA4iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
