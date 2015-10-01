@@ -4,6 +4,6 @@ To install, run `sudo gem install cocoapods; git clone https://github.com/jessem
 
 If you encounter issues, follow the instructions at the bottom of [this site](http://bouk.co/blog/sideload-iphone/).
 
-This repository has been set up per these instructions:
+As a sidenote, this repository has been set up per these instructions:
 
 ![GBA4iOS](https://raw.githubusercontent.com/jessemillar/GBA4iOS/master/screenshot.png)
